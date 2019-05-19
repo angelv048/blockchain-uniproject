@@ -55,6 +55,7 @@ Proof-of-work system(Pow)
 
 
 # 4. Линкове към мрежи за търговия или разработка на функционални пространства със съответната крипто валута
+ - https://99bitcoins.com/buy-bitcoin-cash/#bch-wallet
 
  Обмяна на цифровата валута BCH може да се осъществи на следните дигитални борси : 
  Bitstamp, Coinbase, Gemini, Kraken, Bitfinex, ShapeShift
