@@ -1,5 +1,7 @@
-# blockchain-uniproject
-# BCH - Bitcoin Cach
+# blockchain-uniproject #
+![picture alt](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bitcoin_Cash.png/287px-Bitcoin_Cash.png "Bitcoin Cach (BCH)")
+
+# BCH - Bitcoin Cach #
 # 1. Концепция на валутата:
 
 Биткойн Кеш (BCH) е криптовалута.
