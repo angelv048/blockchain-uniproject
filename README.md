@@ -65,16 +65,23 @@ Proof-of-work system(Pow)
 
 
 # 4. Линкове към мрежи за търговия или разработка на функционални пространства със съответната крипто валута #
+ 
+ * Електрони портфейли
+	- [Exodus](https://www.exodus.io/)
+	- [BitPay](https://bitpay.com/)
+	- [Jaxx](https://jaxx.io/)
+	- [Electroncash](https://electroncash.org/)
+ 
  - https://99bitcoins.com/buy-bitcoin-cash/#bch-wallet
 
- Обмяна на цифровата валута BCH може да се осъществи на следните дигитални борси : 
+ * Обмяна на цифровата валута BCH може да се осъществи на следните дигитални борси : 
  Bitstamp, Coinbase, Gemini, Kraken, Bitfinex, ShapeShift
  
- - https://www.bitstamp.net/
- - https://www.coinbase.com/
- - https://gemini.com/
- - https://www.kraken.com/
- - https://www.bitfinex.com/
- - https://shapeshift.io
+ 	- [Bitstamp](https://www.bitstamp.net/)
+	- [Coinbase](https://www.coinbase.com/)
+	- [Gemini](https://gemini.com/)
+	- [Kraken](https://www.kraken.com/)
+	- [Bitfinex](https://www.bitfinex.com/)
+	- [Shapeshift](https://shapeshift.io)
 
 
