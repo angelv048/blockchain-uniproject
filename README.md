@@ -70,9 +70,8 @@ Proof-of-work system(Pow)
 	- [Exodus](https://www.exodus.io/)
 	- [BitPay](https://bitpay.com/)
 	- [Jaxx](https://jaxx.io/)
-	- [Electroncash](https://electroncash.org/)
- 
- - https://99bitcoins.com/buy-bitcoin-cash/#bch-wallet
+	- [Electroncash](https://electroncash.org/) 
+ 	- [Статия](https://99bitcoins.com/buy-bitcoin-cash/#bch-wallet)
 
  * Обмяна на цифровата валута BCH може да се осъществи на следните дигитални борси : 
  Bitstamp, Coinbase, Gemini, Kraken, Bitfinex, ShapeShift
