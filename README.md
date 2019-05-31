@@ -86,5 +86,7 @@ BCH използва алгоритъм proof-of-work (PoW). Всъщност pr
 	- [Bitfinex](https://www.bitfinex.com/)
 	- [Shapeshift](https://shapeshift.io)
 
+ # 5. Как да стартираме мининг процеса с Биткойн Кеш #
+ 
 ![picture alt](https://cointelegraph.com/storage/uploads/view/a5e4bbc9a76ddcaeca08cf11300c1340.jpg)
 
