@@ -56,6 +56,8 @@ Proof-of-work system(Pow)
 	* Върху основата на BCH са създадени различни програмни езици и платформи за писане на Smart Contracts.
 	Като например "Spedn" който е език специално разработен за BCH протокола, от разработчика Tendo Pein.
 	Автора споделя, че езика е създаден за категоричност и сигурност, засича множество грешки по време на компилиране, силно   типизиран, приличащ на C езиците.
+	- [Приметрн код на езика !](https://spedn.readthedocs.io/en/latest/0conf.html)
+	
 	Източник: https://news.bitcoin.com/meet-spedn-a-smart-contract-programming-language-for-bitcoin-cash/
 	
 	* Като пример на платформа за разроботка на Smart Contracts e Wormhole. Платформата е създадена от Bitmain, компания базирана в Хонг Конг.
