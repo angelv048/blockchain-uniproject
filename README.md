@@ -129,20 +129,20 @@ BCH използва алгоритъм proof-of-work (PoW). Всъщност pr
  | Avalon 6 | 1100W | 3.5 TH/s |	$700 |
  | Antrouter | R1 | Negligible | 5.5 GH/s | $39 |
 	
-	* Mining Pools (Групи)
+* Mining Pools (Групи)
 	
-	    - BTC.com
-	    - F2Pool
-	    - ViaBTC
-	    - Bitcoin.com
-	    - AntPool
-	    - BitClub
-	    - BTC.top
+    - BTC.com
+    - F2Pool
+    - ViaBTC
+    - Bitcoin.com
+    - AntPool
+    - BitClub
+    - BTC.top
 
-	* Примерни софтуери
+* Примерни софтуери
 	
-	    - CGminer
-	    - BFGmine
+    - CGminer
+    - BFGmine
 	    
  - [Източник ->](https://cointelegraph.com/bitcoin-cash-for-beginners/how-to-mine-bitcoin-cash?fbclid=IwAR1U4Y3QwrW3PIBmlc7vKvY0KKYI5TJCpEHch_f6HJz9oaScH_S4jxn2uoI#cloud-mining)
 	
